@@ -459,7 +459,7 @@ body .container .mixer .dashes::before {
   left: 3.5rem;
 }
 
-/*body .container .mixer .screen-top {
+body .container .mixer .screen-top {
   position: absolute;
   top: 2rem;
   left: 50%;
@@ -472,7 +472,8 @@ body .container .mixer .dashes::before {
   aspect-ratio: 1/1;
   background-color: black;
 }
-body .container .mixer .screen-top::after {
+
+/*body .container .mixer .screen-top::after {
   content: "";
   position: absolute;
   left: -0.6rem;
