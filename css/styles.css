@@ -432,10 +432,11 @@ body .container .mixer .right-dashes {
   right: 4.5rem;
 }
 
-/*body .container .mixer .left-dashes {
+body .container .mixer .left-dashes {
   left: 1rem;
 }
-body .container .mixer .dashes, body .container .mixer .dashes::before, body .container .mixer .dashes::after {
+
+/*body .container .mixer .dashes, body .container .mixer .dashes::before, body .container .mixer .dashes::after {
   position: absolute;
   bottom: 1rem;
   width: 25px;
