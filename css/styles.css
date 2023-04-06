@@ -304,13 +304,13 @@ a {
   box-shadow: 0 0 10px 5px var(--pink);
 }
 
-/*.border {
+.border {
   border: 2px solid var(--light-blue);
   border-right-color: transparent;
   border-left-color: transparent;
 }
 
-* {
+/** {
   margin: 0;
 }
 
