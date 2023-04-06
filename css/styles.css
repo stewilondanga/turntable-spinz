@@ -537,7 +537,7 @@ body .container .mixer .screen-bottom .screen-bottom-after {
   transition-duration: 300ms;
 }
 
-/*body .container .mixer .columns-container {
+body .container .mixer .columns-container {
   position: absolute;
   left: 50%;
   transform: translate(-50%);
@@ -549,7 +549,8 @@ body .container .mixer .screen-bottom .screen-bottom-after {
   width: 80px;
   aspect-ratio: 2/1;
 }
-body .container .mixer .columns-container .column {
+
+/*body .container .mixer .columns-container .column {
   position: relative;
   height: 100%;
   width: 1px;
