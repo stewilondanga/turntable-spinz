@@ -428,10 +428,11 @@ body .container .mixer .circle .inside-circle .inside-circle-2 {
   border: 2px dotted var(--pink);
 }
 
-/*body .container .mixer .right-dashes {
+body .container .mixer .right-dashes {
   right: 4.5rem;
 }
-body .container .mixer .left-dashes {
+
+/*body .container .mixer .left-dashes {
   left: 1rem;
 }
 body .container .mixer .dashes, body .container .mixer .dashes::before, body .container .mixer .dashes::after {
