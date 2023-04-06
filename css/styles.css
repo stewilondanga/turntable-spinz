@@ -580,14 +580,15 @@ body .container .mixer .columns-container .column .column-before {
   z-index: 2;
 }
 
-/*body .container .btns {
+body .container .btns {
   margin-top: 1rem;
   display: flex;
   justify-content: center;
   align-items: center;
   gap: 1rem;
 }
-body .container .btns .btn {
+
+/*body .container .btns .btn {
   padding: 0.5rem 1rem;
   border-radius: 0.5rem;
   cursor: pointer;
