@@ -335,10 +335,11 @@ body .container .mixer {
   background: linear-gradient(0deg, #000000 10%, #093243 100%);
 }
 
-/*body .container .mixer .left-dots {
+body .container .mixer .left-dots {
   left: 1.5rem;
 }
-body .container .mixer .right-dots {
+
+/*body .container .mixer .right-dots {
   right: 1.5rem;
 }
 body .container .mixer .dots {
