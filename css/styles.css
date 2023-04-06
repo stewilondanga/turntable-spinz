@@ -165,7 +165,7 @@ a {
   line-height: 100%;
 }
 
-/*:root {
+:root {
   --bg-color: #f5db02;
   --black: #000204;
   --dark-blue: #093243;
@@ -179,7 +179,8 @@ a {
     transform: translate(-50%, -50%) rotate(360deg);
   }
 }
-.rot-animation-500ms {
+
+/*.rot-animation-500ms {
   animation: rot 500ms infinite linear;
 }
 
