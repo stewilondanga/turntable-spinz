@@ -256,12 +256,13 @@ a {
   animation: top-down 1s infinite 900ms;
 }
 
-/*@keyframes top {
+@keyframes top {
   to {
     top: calc(100% - 8px);
   }
 }
-.top-animation-delay-1 {
+
+/*.top-animation-delay-1 {
   animation: top 1s infinite 300ms alternate;
 }
 
