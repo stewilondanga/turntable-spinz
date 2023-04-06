@@ -605,7 +605,7 @@ body .container .btns .btn>i {
   font-size: 2rem;
 }
 
-/*body .container .btns .btn:nth-of-type(2) {
+body .container .btns .btn:nth-of-type(2) {
   background-color: var(--pink);
   color: white;
 }
