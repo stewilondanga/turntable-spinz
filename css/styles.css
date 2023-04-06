@@ -210,7 +210,7 @@ a {
   animation: light 1s infinite 400ms linear;
 }
 
-/*.light-animation-delay-5 {
+.light-animation-delay-5 {
   animation: light 1s infinite 500ms linear;
 }
 
@@ -218,26 +218,33 @@ a {
   0% {
     top: 10%;
   }
+
   25% {
     top: 30%;
   }
+
   50% {
     top: 20%;
   }
+
   60% {
     top: 40%;
   }
+
   70% {
     top: 20%;
   }
+
   80% {
     top: 40%;
   }
+
   100% {
     top: 0;
   }
 }
-.top-down-animation-delay-1 {
+
+/*.top-down-animation-delay-1 {
   animation: top-down 1s infinite 300ms;
 }
 
