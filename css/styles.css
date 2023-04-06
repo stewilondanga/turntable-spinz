@@ -550,13 +550,14 @@ body .container .mixer .columns-container {
   aspect-ratio: 2/1;
 }
 
-/*body .container .mixer .columns-container .column {
+body .container .mixer .columns-container .column {
   position: relative;
   height: 100%;
   width: 1px;
   background-color: var(--pink);
 }
-body .container .mixer .columns-container .column::after {
+
+/*body .container .mixer .columns-container .column::after {
   content: "";
   position: absolute;
   left: 50%;
