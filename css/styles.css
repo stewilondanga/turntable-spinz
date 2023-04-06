@@ -180,11 +180,11 @@ a {
   }
 }
 
-/*.rot-animation-500ms {
+.rot-animation-500ms {
   animation: rot 500ms infinite linear;
 }
 
-.rot-animation-1000ms {
+/*.rot-animation-1000ms {
   animation: rot 1s infinite linear;
 }
 
