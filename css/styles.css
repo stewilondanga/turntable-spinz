@@ -525,7 +525,7 @@ body .container .mixer .screen-bottom::before {
   height: 0.25rem;
 }
 
-/*body .container .mixer .screen-bottom .screen-bottom-after {
+body .container .mixer .screen-bottom .screen-bottom-after {
   position: absolute;
   left: 4px;
   width: 5px;
@@ -536,7 +536,8 @@ body .container .mixer .screen-bottom::before {
   opacity: 0;
   transition-duration: 300ms;
 }
-body .container .mixer .columns-container {
+
+/*body .container .mixer .columns-container {
   position: absolute;
   left: 50%;
   transform: translate(-50%);
