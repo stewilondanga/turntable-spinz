@@ -262,11 +262,11 @@ a {
   }
 }
 
-/*.top-animation-delay-1 {
+.top-animation-delay-1 {
   animation: top 1s infinite 300ms alternate;
 }
 
-.top-animation-delay-2 {
+/*.top-animation-delay-2 {
   animation: top 1s infinite 600ms alternate;
 }
 
