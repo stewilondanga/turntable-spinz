@@ -597,10 +597,11 @@ body .container .btns .btn {
   color: var(--pink);
 }
 
-/*body .container .btns .btn:hover {
+body .container .btns .btn:hover {
   opacity: 0.8;
 }
-body .container .btns .btn > i {
+
+/*body .container .btns .btn > i {
   font-size: 2rem;
 }
 body .container .btns .btn:nth-of-type(2) {
