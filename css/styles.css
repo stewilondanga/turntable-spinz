@@ -194,11 +194,11 @@ a {
   }
 }
 
-/*.light-animation-delay-1 {
+.light-animation-delay-1 {
   animation: light 1s infinite 100ms linear;
 }
 
-.light-animation-delay-2 {
+/*.light-animation-delay-2 {
   animation: light 1s infinite 200ms linear;
 }
 
