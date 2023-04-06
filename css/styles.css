@@ -252,11 +252,11 @@ a {
   animation: top-down 1s infinite 600ms;
 }
 
-/*.top-down-animation-delay-3 {
+.top-down-animation-delay-3 {
   animation: top-down 1s infinite 900ms;
 }
 
-@keyframes top {
+/*@keyframes top {
   to {
     top: calc(100% - 8px);
   }
