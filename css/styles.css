@@ -403,7 +403,7 @@ body .container .mixer .circle .inside-circle-1 {
   transition-duration: 1s;
 }
 
-/*body .container .mixer .circle .inside-circle {
+body .container .mixer .circle .inside-circle {
   position: absolute;
   width: 30%;
   aspect-ratio: 1/1;
@@ -415,7 +415,8 @@ body .container .mixer .circle .inside-circle-1 {
   border: 2px dotted white;
   transition-duration: 1s;
 }
-body .container .mixer .circle .inside-circle .inside-circle-2 {
+
+/*body .container .mixer .circle .inside-circle .inside-circle-2 {
   position: absolute;
   width: 60%;
   aspect-ratio: 1/1;
