@@ -310,11 +310,11 @@ a {
   border-left-color: transparent;
 }
 
-/** {
+* {
   margin: 0;
 }
 
-body {
+/*body {
   display: grid;
   place-items: center;
   width: 100vw;
