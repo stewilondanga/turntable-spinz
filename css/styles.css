@@ -516,7 +516,7 @@ body .container .mixer .screen-bottom {
   aspect-ratio: 2/1;
 }
 
-/*body .container .mixer .screen-bottom::before {
+body .container .mixer .screen-bottom::before {
   content: "";
   position: absolute;
   bottom: calc(100% + 0.5rem);
@@ -524,7 +524,8 @@ body .container .mixer .screen-bottom {
   width: 100%;
   height: 0.25rem;
 }
-body .container .mixer .screen-bottom .screen-bottom-after {
+
+/*body .container .mixer .screen-bottom .screen-bottom-after {
   position: absolute;
   left: 4px;
   width: 5px;
