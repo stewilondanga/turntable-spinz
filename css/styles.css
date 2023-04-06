@@ -188,12 +188,13 @@ a {
   animation: rot 1s infinite linear;
 }
 
-/*@keyframes light {
+@keyframes light {
   to {
     box-shadow: 0 0 10px 2px var(--pink);
   }
 }
-.light-animation-delay-1 {
+
+/*.light-animation-delay-1 {
   animation: light 1s infinite 100ms linear;
 }
 
