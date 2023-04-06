@@ -390,7 +390,7 @@ body .container .mixer .circle {
   border: 1px solid black;
 }
 
-/*body .container .mixer .circle .inside-circle-1 {
+body .container .mixer .circle .inside-circle-1 {
   position: absolute;
   width: 80%;
   aspect-ratio: 1/1;
@@ -402,7 +402,8 @@ body .container .mixer .circle {
   background-color: var(--blue-blue);
   transition-duration: 1s;
 }
-body .container .mixer .circle .inside-circle {
+
+/*body .container .mixer .circle .inside-circle {
   position: absolute;
   width: 30%;
   aspect-ratio: 1/1;
