@@ -362,7 +362,7 @@ body .container .mixer .dots .dot {
   box-shadow: 1px 1px 2px 2px #b6285c inset;
 }
 
-/*body .container .mixer .dots .dot .inside-dot {
+body .container .mixer .dots .dot .inside-dot {
   position: absolute;
   left: 0;
   top: calc(100% + 4px);
@@ -371,7 +371,8 @@ body .container .mixer .dots .dot {
   background-color: var(--pink);
   box-shadow: 1px 1px 2px 2px #b6285c inset;
 }
-body .container .mixer .left-circle {
+
+/*body .container .mixer .left-circle {
   left: 1.5rem;
 }
 body .container .mixer .right-circle {
