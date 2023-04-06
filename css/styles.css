@@ -452,13 +452,14 @@ body .container .mixer .dashes::after {
   left: 1.75rem;
 }
 
-/*body .container .mixer .dashes::before {
+body .container .mixer .dashes::before {
   content: "";
   opacity: 1;
   bottom: 0;
   left: 3.5rem;
 }
-body .container .mixer .screen-top {
+
+/*body .container .mixer .screen-top {
   position: absolute;
   top: 2rem;
   left: 50%;
