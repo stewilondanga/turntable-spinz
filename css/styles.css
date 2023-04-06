@@ -202,11 +202,11 @@ a {
   animation: light 1s infinite 200ms linear;
 }
 
-/*.light-animation-delay-3 {
+.light-animation-delay-3 {
   animation: light 1s infinite 300ms linear;
 }
 
-.light-animation-delay-4 {
+/*.light-animation-delay-4 {
   animation: light 1s infinite 400ms linear;
 }
 
