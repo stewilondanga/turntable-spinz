@@ -416,7 +416,7 @@ body .container .mixer .circle .inside-circle {
   transition-duration: 1s;
 }
 
-/*body .container .mixer .circle .inside-circle .inside-circle-2 {
+body .container .mixer .circle .inside-circle .inside-circle-2 {
   position: absolute;
   width: 60%;
   aspect-ratio: 1/1;
@@ -427,7 +427,8 @@ body .container .mixer .circle .inside-circle {
   border-radius: 50%;
   border: 2px dotted var(--pink);
 }
-body .container .mixer .right-dashes {
+
+/*body .container .mixer .right-dashes {
   right: 4.5rem;
 }
 body .container .mixer .left-dashes {
