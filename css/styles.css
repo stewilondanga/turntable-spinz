@@ -343,7 +343,7 @@ body .container .mixer .right-dots {
   right: 1.5rem;
 }
 
-/*body .container .mixer .dots {
+body .container .mixer .dots {
   position: absolute;
   top: 2rem;
   display: flex;
@@ -353,7 +353,8 @@ body .container .mixer .right-dots {
   width: 75px;
   height: 30px;
 }
-body .container .mixer .dots .dot {
+
+/*body .container .mixer .dots .dot {
   position: relative;
   width: 12px;
   aspect-ratio: 1/1;
