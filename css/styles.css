@@ -296,11 +296,11 @@ a {
   box-shadow: 0 0 10px 2px var(--pink);
 }
 
-/*.box-shadow-2 {
+.box-shadow-2 {
   box-shadow: 0 0 6px 1px var(--light-blue);
 }
 
-.box-shadow-3 {
+/*.box-shadow-3 {
   box-shadow: 0 0 10px 5px var(--pink);
 }
 
