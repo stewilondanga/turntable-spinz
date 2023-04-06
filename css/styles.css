@@ -339,10 +339,11 @@ body .container .mixer .left-dots {
   left: 1.5rem;
 }
 
-/*body .container .mixer .right-dots {
+body .container .mixer .right-dots {
   right: 1.5rem;
 }
-body .container .mixer .dots {
+
+/*body .container .mixer .dots {
   position: absolute;
   top: 2rem;
   display: flex;
