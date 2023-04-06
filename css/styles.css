@@ -436,7 +436,7 @@ body .container .mixer .left-dashes {
   left: 1rem;
 }
 
-/*body .container .mixer .dashes, body .container .mixer .dashes::before, body .container .mixer .dashes::after {
+body .container .mixer .dashes, body .container .mixer .dashes::before, body .container .mixer .dashes::after {
   position: absolute;
   bottom: 1rem;
   width: 25px;
@@ -444,7 +444,8 @@ body .container .mixer .left-dashes {
   background-color: var(--pink);
   opacity: 0.5;
 }
-body .container .mixer .dashes::after {
+
+/*body .container .mixer .dashes::after {
   content: "";
   opacity: 1;
   bottom: 0;
