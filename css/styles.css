@@ -284,11 +284,11 @@ a {
   }
 }
 
-/*.opacity-1 {
+.opacity-1 {
   opacity: 1 !important;
 }
 
-.opacity-2 {
+/*.opacity-2 {
   animation: opacity 1s infinite alternate;
 }
 
