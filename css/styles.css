@@ -376,10 +376,11 @@ body .container .mixer .left-circle {
   left: 1.5rem;
 }
 
-/*body .container .mixer .right-circle {
+body .container .mixer .right-circle {
   right: 1.5rem;
 }
-body .container .mixer .circle {
+
+/*body .container .mixer .circle {
   position: absolute;
   top: 4.5rem;
   width: 90px;
