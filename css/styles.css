@@ -588,7 +588,7 @@ body .container .btns {
   gap: 1rem;
 }
 
-/*body .container .btns .btn {
+body .container .btns .btn {
   padding: 0.5rem 1rem;
   border-radius: 0.5rem;
   cursor: pointer;
@@ -596,7 +596,8 @@ body .container .btns {
   outline: none;
   color: var(--pink);
 }
-body .container .btns .btn:hover {
+
+/*body .container .btns .btn:hover {
   opacity: 0.8;
 }
 body .container .btns .btn > i {
