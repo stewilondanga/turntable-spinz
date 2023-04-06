@@ -506,7 +506,7 @@ body .container .mixer .screen-top .column {
   transition-duration: 1s;
 }
 
-/*body .container .mixer .screen-bottom {
+body .container .mixer .screen-bottom {
   position: absolute;
   left: 50%;
   top: 7rem;
@@ -515,7 +515,8 @@ body .container .mixer .screen-top .column {
   width: 40px;
   aspect-ratio: 2/1;
 }
-body .container .mixer .screen-bottom::before {
+
+/*body .container .mixer .screen-bottom::before {
   content: "";
   position: absolute;
   bottom: calc(100% + 0.5rem);
