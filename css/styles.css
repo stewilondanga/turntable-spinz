@@ -270,11 +270,11 @@ a {
   animation: top 1s infinite 600ms alternate;
 }
 
-/*.top-animation-delay-3 {
+.top-animation-delay-3 {
   animation: top 1s infinite 900ms alternate;
 }
 
-@keyframes opacity {
+/*@keyframes opacity {
   from {
     opacity: 0.7;
   }
