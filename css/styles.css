@@ -274,15 +274,17 @@ a {
   animation: top 1s infinite 900ms alternate;
 }
 
-/*@keyframes opacity {
+@keyframes opacity {
   from {
     opacity: 0.7;
   }
+
   to {
     opacity: 1;
   }
 }
-.opacity-1 {
+
+/*.opacity-1 {
   opacity: 1 !important;
 }
 
