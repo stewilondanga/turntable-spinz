@@ -569,7 +569,7 @@ body .container .mixer .columns-container .column::after {
   box-shadow: 0 3px 0 0 white, 0 6px 0 0 white, 0 9px 0 0 white, 0 12px 0 0 white, 0 15px 0 0 white, 0 18px 0 0 white, 0 21px 0 0 white, 0 24px 0 0 white, 0 27px 0 0 white, 0 30px 0 0 white;
 }
 
-/*body .container .mixer .columns-container .column .column-before {
+body .container .mixer .columns-container .column .column-before {
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
@@ -579,7 +579,8 @@ body .container .mixer .columns-container .column::after {
   background-color: var(--light-blue);
   z-index: 2;
 }
-body .container .btns {
+
+/*body .container .btns {
   margin-top: 1rem;
   display: flex;
   justify-content: center;
