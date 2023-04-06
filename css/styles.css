@@ -184,11 +184,11 @@ a {
   animation: rot 500ms infinite linear;
 }
 
-/*.rot-animation-1000ms {
+.rot-animation-1000ms {
   animation: rot 1s infinite linear;
 }
 
-@keyframes light {
+/*@keyframes light {
   to {
     box-shadow: 0 0 10px 2px var(--pink);
   }
