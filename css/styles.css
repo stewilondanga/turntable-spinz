@@ -327,14 +327,15 @@ body .container {
   height: 300px;
 }
 
-/*body .container .mixer {
+body .container .mixer {
   position: relative;
   width: 100%;
   height: 200px;
   border-radius: 1rem;
   background: linear-gradient(0deg, #000000 10%, #093243 100%);
 }
-body .container .mixer .left-dots {
+
+/*body .container .mixer .left-dots {
   left: 1.5rem;
 }
 body .container .mixer .right-dots {
