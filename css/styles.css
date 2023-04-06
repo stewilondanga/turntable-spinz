@@ -244,11 +244,11 @@ a {
   }
 }
 
-/*.top-down-animation-delay-1 {
+.top-down-animation-delay-1 {
   animation: top-down 1s infinite 300ms;
 }
 
-.top-down-animation-delay-2 {
+/*.top-down-animation-delay-2 {
   animation: top-down 1s infinite 600ms;
 }
 
