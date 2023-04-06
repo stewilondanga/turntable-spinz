@@ -380,7 +380,7 @@ body .container .mixer .right-circle {
   right: 1.5rem;
 }
 
-/*body .container .mixer .circle {
+body .container .mixer .circle {
   position: absolute;
   top: 4.5rem;
   width: 90px;
@@ -389,7 +389,8 @@ body .container .mixer .right-circle {
   background-color: #002e38;
   border: 1px solid black;
 }
-body .container .mixer .circle .inside-circle-1 {
+
+/*body .container .mixer .circle .inside-circle-1 {
   position: absolute;
   width: 80%;
   aspect-ratio: 1/1;
