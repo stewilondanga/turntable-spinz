@@ -288,11 +288,11 @@ a {
   opacity: 1 !important;
 }
 
-/*.opacity-2 {
+.opacity-2 {
   animation: opacity 1s infinite alternate;
 }
 
-.box-shadow-1 {
+/*.box-shadow-1 {
   box-shadow: 0 0 10px 2px var(--pink);
 }
 
