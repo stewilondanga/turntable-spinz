@@ -497,7 +497,7 @@ body .container .mixer .screen-top::before {
   box-shadow: 0 1rem 0 var(--pink), 0 2rem 0 var(--pink);
 }
 
-/*body .container .mixer .screen-top .column {
+body .container .mixer .screen-top .column {
   position: relative;
   width: 12px;
   height: 60%;
@@ -505,7 +505,8 @@ body .container .mixer .screen-top::before {
   opacity: 0;
   transition-duration: 1s;
 }
-body .container .mixer .screen-bottom {
+
+/*body .container .mixer .screen-bottom {
   position: absolute;
   left: 50%;
   top: 7rem;
